@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: vyapari-inventory
-    env: docker
-    plan: free
-    region: oregon
